@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Chu II, Romy (s243854)\Introduction\SchoolAppRomyIIC\SchoolAppRomyIIC\bin\Debug\SchoolAppRomyIIC.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Chu II, Romy (s243854)\Introduction\SchoolAppRomyIIC\SchoolAppRomyIIC\bin\Debug\SchoolAppRomyIIC.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Chu II, Romy (s243854)\Introduction\SchoolAppRomyIIC\SchoolAppRomyIIC\bin\Debug\SchoolAppRomyIIC.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Chu II, Romy (s243854)\Introduction\SchoolAppRomyIIC\SchoolAppRomyIIC\obj\Debug\SchoolAppRomyIIC.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Chu II, Romy (s243854)\Introduction\SchoolAppRomyIIC\SchoolAppRomyIIC\obj\Debug\SchoolAppRomyIIC.frmSchoolAppWithMenu.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Chu II, Romy (s243854)\Introduction\SchoolAppRomyIIC\SchoolAppRomyIIC\obj\Debug\SchoolAppRomyIIC.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Chu II, Romy (s243854)\Introduction\SchoolAppRomyIIC\SchoolAppRomyIIC\obj\Debug\SchoolAppRomyIIC.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Chu II, Romy (s243854)\Introduction\SchoolAppRomyIIC\SchoolAppRomyIIC\obj\Debug\SchoolAppRomyIIC.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Chu II, Romy (s243854)\Introduction\SchoolAppRomyIIC\SchoolAppRomyIIC\obj\Debug\SchoolAppRomyIIC.pdb
